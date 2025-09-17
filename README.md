@@ -1,5 +1,5 @@
 # Luis Eduardo
-Olá, sou Luís Eduardo tenho 19 anos faço analise e desenvolvimento de sistemas, estou ultilizando geralmente as linguagens de javascript, MySQL, e python. Tenho como objetivo continuar evoluindo constantemente.
+Olá, sou Luís Eduardo tenho 20 anos faço analise e desenvolvimento de sistemas, estou ultilizando geralmente as linguagens de javascript, MySQL, e python. Tenho como objetivo continuar evoluindo constantemente.
 ---
 ### Linguagens 
 <img 
