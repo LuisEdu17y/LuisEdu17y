@@ -41,7 +41,7 @@ Olá, sou Luís Eduardo tenho 20 anos faço analise e desenvolvimento de sistema
     alt="Java"
     title="Java"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 50px;"
     src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo-700x394.png"
 />
 
