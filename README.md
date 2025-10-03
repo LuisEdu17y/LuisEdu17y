@@ -1,5 +1,5 @@
 # Luis Eduardo
-Olá, sou Luís Eduardo tenho 20 anos faço analise e desenvolvimento de sistemas, estou ultilizando geralmente as linguagens de javascript, MySQL, e python. Tenho como objetivo continuar evoluindo constantemente.
+Olá, sou Luís Eduardo tenho 20 anos faço analise e desenvolvimento de sistemas, estou ultilizando geralmente as linguagens de Java, javascript, MySQL, e python. Tenho como objetivo continuar evoluindo constantemente.
 ---
 ### Linguagens 
 <img 
@@ -36,6 +36,14 @@ Olá, sou Luís Eduardo tenho 20 anos faço analise e desenvolvimento de sistema
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img 
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Logo Java"
+/>
 />
 
 ### Estatísticas
