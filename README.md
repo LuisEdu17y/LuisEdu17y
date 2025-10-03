@@ -42,7 +42,7 @@ Olá, sou Luís Eduardo tenho 20 anos faço analise e desenvolvimento de sistema
     title="Java"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/java@0.0.0/+esm"
+    src="https://static.vecteezy.com/system/resources/previews/022/100/214/original/java-logo-transparent-free-png.png" alt="Logo Java Alternativa"
 />
 
 ### Estatísticas
