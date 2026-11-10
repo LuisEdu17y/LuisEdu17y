@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 Tenho 20 anos e estudo **Análise e Desenvolvimento de Sistemas**.
+- 🎓 Tenho 21 anos e estudo **Análise e Desenvolvimento de Sistemas**.
 - 💻 Atualmente, foco meus projetos em **Java, JavaScript, Python** e bancos de dados **MySQL**.
 - 🚀 Meu objetivo é continuar evoluindo constantemente, aprendendo novas tecnologias e aprimorando a qualidade do meu código.
 - 🤝 Estou sempre aberto a novos desafios e oportunidades de colocar meus conhecimentos em prática.
